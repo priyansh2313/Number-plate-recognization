@@ -1,8 +1,8 @@
-# Number Plate Recognition using EasyOCR
+# Number Plate Recognition using EasyOCR🚀
 
 A Python project for real-time number plate recognition using **EasyOCR** to detect and extract text from vehicle plates. Ideal for applications like vehicle surveillance and parking management.
 
-## Features
+## Features📊
 
 - **Accurate Text Detection** with EasyOCR
 - **Real-time Processing**
