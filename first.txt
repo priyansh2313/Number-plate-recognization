@@ -1,6 +1,6 @@
 **Mandatory
 
-Before running the code , check whether Opencv, EasyOcr, Matplotlib are n present int the system.
+Before running the code , check whether Opencv, EasyOcr, Matplotlib are  present in the system.
 If not, get those first and then run the code and in Google collab for better and faster results.
 
 Happy Coding❤️
